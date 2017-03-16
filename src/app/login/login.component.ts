@@ -13,13 +13,11 @@ export class LoginComponent implements OnInit {
   }
 
   abhay(){
-    console.log("Method Created By AbhayTechHive");
+    console.log("Method Created By AbhayTechHive vishvas");
   }
 
-
-
   vishvas(){
-    console.log("vishvas");
+    console.log("vishvas changed vishvas vishvas vishvas");
   }
 
 }
