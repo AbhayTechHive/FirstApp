@@ -11,15 +11,12 @@ export class LoginComponent implements OnInit {
 
   ngOnInit() {
   }
-
   abhay(){
-    console.log("Method Created By AbhayTechHive");
+    console.log("Method Created By AbhayTechHive Again Changed..!");
   }
 
-
-
   vishvas(){
-    console.log("vishvas");
+    console.log("vishvas Changed By Abhay");
   }
 
 }
